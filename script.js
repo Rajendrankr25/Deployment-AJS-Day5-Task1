@@ -44,7 +44,7 @@ async function tkrl() {
     let resultCard = document.createElement("div");
     resultCard.setAttribute("class","rcard");
     resultCard.innerHTML = `<br><div class="card" style="width: 75%;">
-    <img src="./assets/620619.jpg" class="card-img-top" alt="image">
+    <img src="./620619.jpg" class="card-img-top" alt="image">
     <div class="card-body">
       <h2>Section : ${data2.sect_tam}</h2>
       <br>
